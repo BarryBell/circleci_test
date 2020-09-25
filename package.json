@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BarryBell/circleci_test#readme",
   "dependencies": {
-    "react": "^16.13.1"
+    "react": "^16.13.1",
+    "redux": "^4.0.5"
   }
 }
